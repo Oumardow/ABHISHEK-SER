@@ -22,7 +22,7 @@
     },
     "signedPreKey": {
       "keyPair": {
-        "private": {
+        "Public": {
           "type": "Buffer",
           "data": "YNRm4xjliFWS0NAL+Wa59Oy4dYJn8g2yVs+ugBZySH8="
         },
@@ -42,7 +42,7 @@
     "processedHistoryMessages": [
       {
         "key": {
-          "remoteJid": "918157993101@s.whatsapp.net",
+          "remoteJid": "+223 72 26 81 34@s.whatsapp.net",
           "fromMe": true,
           "id": "E2D96F61AC55EF06BC2DD6401DB69547"
         },
@@ -54,7 +54,7 @@
           "fromMe": true,
           "id": "11257B593E87DA75FBD219340606BA76"
         },
-        "timestamp": 1677992826
+        "timestamp +223 72 26 81 34
       }
     ],
     "nextPreKeyId": 31,
@@ -68,13 +68,13 @@
       "deviceSignature": "bwU3P0R7iS5uVE7Q8+t8JrRZIsZWEqfgY30LntJsRLOPq9x6dPgxX2RLFByLactjRkANbXRq6coMYt1va5KRCA=="
     },
     "me": {
-      "id": "918157993101:8@s.whatsapp.net",
-      "name": "Abbi"
+      "id": "+223 72 26 81 34:8@s.whatsapp.net",
+      "name": "༆𝗠𝗔𝗗𝗔𝗥𝗔❦︎𝗨𝗖𝗛𝗜𝗪𝗔༆"
     },
     "signalIdentities": [
       {
         "identifier": {
-          "name": "918157993101:8@s.whatsapp.net",
+          "name": "༆𝗠𝗔𝗗𝗔𝗥𝗔❦︎𝗨𝗖𝗛𝗜𝗪𝗔༆:8@s.whatsapp.net",
           "deviceId": 0
         },
         "identifierKey": {
@@ -385,7 +385,7 @@
       "918157993101.0": {
         "_sessions": {
           "BXAxGbmKC7T4HQf13tBVJvXyP9Z5xnYmm89oCBxryIYF": {
-            "registrationId": 224913374,
+            "registrationId": +223 72 26 81 34,
             "currentRatchet": {
               "ephemeralKeyPair": {
                 "pubKey": "BUPjOhKh5K7psFHzo+tMj1Gb55hKBcNwg81GfHlzlMA8",
@@ -399,8 +399,8 @@
               "baseKey": "BXAxGbmKC7T4HQf13tBVJvXyP9Z5xnYmm89oCBxryIYF",
               "baseKeyType": 2,
               "closed": -1,
-              "used": 1677992820655,
-              "created": 1677992820655,
+              "used": +223 72 26 81 34,
+              "created": +223 72 26 81 34,
               "remoteIdentityKey": "Bes4jE+n6Ew/O/0DoRwOG7Cc2gWAssrsqIu/E0oUt+Zw"
             },
             "_chains": {
@@ -430,7 +430,7 @@
       "AAAAACH6": {
         "keyData": "/4p/CZEVeJqs7Ofb0pHz/fUBZI40XBhownMf2N16ngs=",
         "fingerprint": {
-          "rawId": 545513612,
+          "rawId": +223 72 26 81 34,
           "currentIndex": 1,
           "deviceIndexes": [
             0,
@@ -442,7 +442,7 @@
       "AAAAACH4": {
         "keyData": "ja2oy6WvoahEj5Jr1B8vsGjQzLimxO6BTaRwwk3K29I=",
         "fingerprint": {
-          "rawId": 545513609,
+          "rawId": +223 72 26 81 34,
           "currentIndex": 1,
           "deviceIndexes": [
             0,
@@ -454,7 +454,7 @@
       "AAAAACH5": {
         "keyData": "nj+2TAIhxHD3l+j3Tn1KZsfIyIDvsrT3hZv+FumjylI=",
         "fingerprint": {
-          "rawId": 545513610,
+          "rawId": +223 72 26 81 34,
           "currentIndex": 1,
           "deviceIndexes": [
             0,
